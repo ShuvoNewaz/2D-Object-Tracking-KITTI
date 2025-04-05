@@ -1,0 +1,16 @@
+name: object_tracking_2d
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - anaconda
+dependencies:
+  - pip
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - pytorch-cuda
+  - opencv
+  - jupyter
