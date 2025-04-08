@@ -1,2 +1,6 @@
 dataset
 readme.ipynb
+__pycache__
+.pt
+.pth
+pretrained
